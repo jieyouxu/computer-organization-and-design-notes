@@ -6,6 +6,7 @@ nav:
     - Computer Abstraction and Technology:
         - Introduction: computer-abstractions-and-technology/introduction.md
         - Great Ideas in Computer Architecture: computer-abstractions-and-technology/great-ideas.md
+        - Below a Typical Program: computer-abstractions-and-technology/below-program.md
     - References:
         - references.md
 
