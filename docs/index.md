@@ -1,17 +1,32 @@
-# Welcome to MkDocs
+# Notes on Computer Organization and Design (RISC-V Edition)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+These notes mostly follow the *Computer Orgnanization and Design
+(RISC-V Edition)*[^1] [\[COaD\]][COaD] book 
 
-## Commands
+[Get the Computer Organization and Design book :book:][COaD]{: .md-button }
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+!!! note "Citation conventions"
 
-## Project layout
+    We use the IEEE Access citation style for [References].
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+    We use one of the following inline-citation style:
+
+    === "Author-year Key"
+
+        Examples:
+
+        - [John1999]
+        - [John2000a]
+
+    === "Abbreviation Key"
+
+        Examples:
+
+        - [RFC793]
+        - [CLRS]
+
+    as the key to the [References].
+
+[COaD]: https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-812275-4
+[References]: ./references.md
+[^1]: https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-812275-4

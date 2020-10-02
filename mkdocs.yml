@@ -1,5 +1,14 @@
 site_name: Notes on Computer Organization and Design (RISC-V)
 
+nav:
+    - Home:
+        - index.md
+    - Computer Abstraction and Technology:
+        - Introduction: computer-abstractions-and-technology/introduction.md
+        - Great Ideas in Computer Architecture: computer-abstractions-and-technology/great-ideas.md
+    - References:
+        - references.md
+
 theme:
     name: material
     custom_dir: overrides
